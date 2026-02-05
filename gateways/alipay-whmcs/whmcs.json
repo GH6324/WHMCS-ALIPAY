@@ -1,12 +1,12 @@
 {
   "schema": "1.0",
   "type": "whmcs-gateways",
-  "name": "alipay-whmcs",
+  "name": "Alipay-WHMCS",
   "license": "proprietary",
   "category": "payments",
   "description": {
-    "name": "WHMCS-ALIPAY",
-    "tagline": "WHMCS 支付宝支付插件"
+    "name": "Alipay-WHMCS",
+    "tagline": "WHMCS Alipay payment gateway module"
   },
   "support": {
     "docs_url": "https:\/\/github.com\/muzihuaner\/WHMCS-ALIPAY"
