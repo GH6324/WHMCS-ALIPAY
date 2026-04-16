@@ -6,7 +6,7 @@
   "category": "payments",
   "description": {
     "name": "Alipay-WHMCS",
-    "tagline": "WHMCS Alipay payment gateway module"
+    "tagline": "WHMCS Alipay payment gateway module."
   },
   "support": {
     "docs_url": "https:\/\/github.com\/muzihuaner\/WHMCS-ALIPAY"
